@@ -3,7 +3,7 @@
 ## This project is designed to manage a local library's inventory. It uses algorithmic functions to keep track of each book's status, allowing for up-to-date information acquisition. 
 <!-- Horizontal line --> 
 ___
-![Library App Preview](/local-library-app-in-action.PNG?raw=true "App Display")
+![Library App Preview](/img/app-in-action.png?raw=true "App Display")
 ___
 <!-- UL --> 
 ### This project has the following functionality: 
