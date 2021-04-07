@@ -3,7 +3,7 @@
 ## This project is designed to manage a local library's inventory. It uses algorithmic functions to keep track of each book's status, allowing for up-to-date information acquisition. 
 <!-- Horizontal line --> 
 ___
-![Pomodoro Timer in Action](/public/app-in-action.PNG?raw=true "App Display")
+![Library App Preview](/app-in-action.PNG?raw=true "App Display")
 ___
 <!-- UL --> 
 ### This project has the following functionality: 
